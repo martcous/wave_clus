@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment=Launch NX session 'test'
+Exec=/usr/NX/bin/nxclient --session "/home/bic/naskon/.nx/config/test.nxs"
+Icon=/usr/NX/share/icons/48x48/nxclient-desktop.png
+Name=test
+Type=Application
+
